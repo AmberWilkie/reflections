@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You bundle files together so that they can be tracked simultaneously. You need to do this to track changes as a group of files.
