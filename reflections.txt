@@ -1,0 +1,5 @@
+Reflections from Udacity Course
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I seriously can't fucking *believe* no one told me about diff before.
